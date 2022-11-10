@@ -9,8 +9,8 @@
 //#define DEBUGPIN 2
 
 //DPLUS and DMINUS are not actually used except for setting things up.
-#define DPLUS 5
-#define DMINUS 4
+#define DPLUS 13
+#define DMINUS 12
 
 //This is what's used in the assembly
 #define DMINUSBASE DMINUS  //Must be D- first, then D+ second.
